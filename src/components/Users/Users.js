@@ -6,7 +6,7 @@ const Users = () => {
   const [show, setShow] = useState(false);
   const [allUsers, setAllUsers] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/users")
+    fetch("https://cryptic-scrubland-72385.herokuapp.com/users")
       .then((res) => res.json())
       .then((data) => setAllUsers(data));
   }, []);
