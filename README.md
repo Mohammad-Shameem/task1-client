@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Assignment Task
+
+# check out the project
+
+Project link :- https://hexadecimal-task.web.app/
+
+# Project Summery
+
+- This project is user data showing project.
+- User data collected from json placeholder.
+- This data stored in MongoDB and Node.js used as backend technology.
+  -The project is hosted in Firebase.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

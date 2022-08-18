@@ -3,7 +3,6 @@ import { useState, useEffect } from "react";
 import "./Users.css";
 
 const Users = () => {
-  const [show, setShow] = useState(false);
   const [allUsers, setAllUsers] = useState([]);
   useEffect(() => {
     fetch("https://cryptic-scrubland-72385.herokuapp.com/users")
