@@ -7,9 +7,10 @@ Project link :- https://hexadecimal-task.web.app/
 # Project Summery
 
 - This project is user data showing project.
-- User data collected from json placeholder.
+- All user data showed in Card.
+- User data collected from json placeholder and stored in MongoDb.
 - This data stored in MongoDB and Node.js used as backend technology.
-  -The project is hosted in Firebase.
+- The project is hosted in Firebase.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
